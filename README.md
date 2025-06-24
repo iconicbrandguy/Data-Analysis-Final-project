@@ -1,7 +1,4 @@
 # Data-Analysis-Final-project
-Based on the content of the uploaded PDF and supplemented by general context, here are adequate and sufficient answers to the requested sections:
-
----
 
 ### **Project Title and Short Description**
 
