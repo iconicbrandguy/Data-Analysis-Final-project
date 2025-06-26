@@ -1,11 +1,11 @@
 # Data-Analysis-Final-project
 
-### **Project Title and Short Description**
+### **Project Title and Description**
 
 **Title:**
 **Global Analysis and Visualization of COVID-19 Trends Using JupyterLab**
 
-**Short Description:**
+**Description:**
 This project conducts a comprehensive data-driven analysis of the COVID-19 pandemic, leveraging global datasets to uncover patterns and insights across countries. It utilizes Python-based data science tools in JupyterLab to clean, process, and visualize COVID-19 case progression, deaths, testing rates, and critical care statistics, focusing on countries such as the USA, India, and Kenya.
 
 ---
